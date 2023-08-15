@@ -4,7 +4,8 @@
   "description": "The main purpose of making Instagram Stories Clone is to understand and apply the concepts of Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build"
   },
   "author": "Mohit Jaiswal",
   "license": "ISC",
